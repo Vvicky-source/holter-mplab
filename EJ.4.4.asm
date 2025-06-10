@@ -22,7 +22,7 @@
 INICIO
 	nop
 	nop
-	nop
+	
 end
 	
 	; Vamos a suponer que la entrada de la señal es por PUERTO B  
